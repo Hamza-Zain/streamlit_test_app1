@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 
 # dataset location
 DATA_URL = (
-    "C:/1/Courses/Create Interactive Dashboards with Streamlit and Python/streamlit_app1/Tweets.csv"
+    "Tweets.csv"
 )
 
 
